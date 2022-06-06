@@ -41,3 +41,5 @@ slides: ""
 ---
 
 I have begun to work with a group of artists at RPI to develop a virtual reality game that allows a user to explore a lake food web. The user will be able to experience the complexity of the ecological community and learn how energy moves through the food web.  
+
+Learn more at the [Eco Resilience Games](https://sites.google.com/view/trophic3d/home) website!
