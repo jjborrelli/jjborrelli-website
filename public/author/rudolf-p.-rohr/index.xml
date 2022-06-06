@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rudolf P. Rohr | Jonathan J. Borrelli</title>
+    <link>https://jjborrelli.com/author/rudolf-p.-rohr/</link>
+      <atom:link href="https://jjborrelli.com/author/rudolf-p.-rohr/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rudolf P. Rohr</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 JJ Borrelli</copyright><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jjborrelli.com/media/icon_hu0a416d4dfc81212628b01d7feafb7f24_5250_512x512_fill_lanczos_center_3.png</url>
+      <title>Rudolf P. Rohr</title>
+      <link>https://jjborrelli.com/author/rudolf-p.-rohr/</link>
+    </image>
+    
+    <item>
+      <title>Selection on stability across ecological scales</title>
+      <link>https://jjborrelli.com/publication/borrelli2015-tree/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://jjborrelli.com/publication/borrelli2015-tree/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
